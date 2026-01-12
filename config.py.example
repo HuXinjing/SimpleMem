@@ -107,7 +107,6 @@ ELASTICSEARCH_INDEX_NAME = "simplemem_memory_entries"
 ELASTICSEARCH_VERIFY_CERTS = False
 
 
-
 # ============================================================================
 # Parallel Processing Configuration
 # ============================================================================
